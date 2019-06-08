@@ -1,0 +1,13 @@
+title: sumeetv's blog
+author: Sumeet Vaidya
+email: me@sumeetv.com
+description: >
+  A blog with my thoughts on engineering, management, and the state of technology in general
+
+# social links
+twitter_username: baylifesv
+github_username: sumeetv
+
+show_excerpts: true
+
+theme: jekyll-theme-minimal
